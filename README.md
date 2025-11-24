@@ -12,16 +12,45 @@ This repository hosts content, diagrams, and ideas for my LinkedIn posts, focusi
 
 Here are the core diagram concepts included in this repo:
 
-1.  **[The Automation Starter Roadmap](diagrams/01-starter-roadmap.md)**: The exact order a beginner should follow.
-2.  **[The “Automation Pyramid”](diagrams/02-automation-pyramid.md)**: Hierarchy from foundations to expert.
-3.  **[Automation Skill Tree](diagrams/03-skill-tree.md)**: A visual mindmap of skills.
-4.  **[The Automation Maturity Model](diagrams/04-maturity-model.md)**: Stages of automation adoption.
-5.  **[“Two Worlds” Diagram](diagrams/05-manual-vs-automated.md)**: Manual vs. Automated networking.
-6.  **[Task → Automation Mapping](diagrams/06-task-mapping.md)**: Matching tools to tasks.
-7.  **[Beginner Blueprint: 30-Day Plan](diagrams/07-30-day-plan.md)**: A month-long learning plan.
-8.  **[Where Automation Fits](diagrams/08-automation-lifecycle.md)**: Automation in the network lifecycle.
-9.  **[Automation Path for OT Engineers](diagrams/09-ot-engineer-path.md)**: Bridging OT and IT automation.
-10. **[Automation Stack Diagram](diagrams/10-automation-stack.md)**: The architectural layers.
+1.  **The Automation Starter Roadmap**
+    ![The Automation Starter Roadmap](diagrams/01-starter-roadmap.png)
+    [Source](diagrams/01-starter-roadmap.md)
+
+2.  **The “Automation Pyramid”**
+    ![The “Automation Pyramid”](diagrams/02-automation-pyramid.png)
+    [Source](diagrams/02-automation-pyramid.md)
+
+3.  **Automation Skill Tree**
+    ![Automation Skill Tree](diagrams/03-skill-tree.png)
+    [Source](diagrams/03-skill-tree.md)
+
+4.  **The Automation Maturity Model**
+    ![The Automation Maturity Model](diagrams/04-maturity-model.png)
+    [Source](diagrams/04-maturity-model.md)
+
+5.  **“Two Worlds” Diagram**
+    ![“Two Worlds” Diagram](diagrams/05-manual-vs-automated.png)
+    [Source](diagrams/05-manual-vs-automated.md)
+
+6.  **Task → Automation Mapping**
+    ![Task → Automation Mapping](diagrams/06-task-mapping.png)
+    [Source](diagrams/06-task-mapping.md)
+
+7.  **Beginner Blueprint: 30-Day Plan**
+    ![Beginner Blueprint: 30-Day Plan](diagrams/07-30-day-plan.png)
+    [Source](diagrams/07-30-day-plan.md)
+
+8.  **Where Automation Fits**
+    ![Where Automation Fits](diagrams/08-automation-lifecycle.png)
+    [Source](diagrams/08-automation-lifecycle.md)
+
+9.  **Automation Path for OT Engineers**
+    ![Automation Path for OT Engineers](diagrams/09-ot-engineer-path.png)
+    [Source](diagrams/09-ot-engineer-path.md)
+
+10. **Automation Stack Diagram**
+    ![Automation Stack Diagram](diagrams/10-automation-stack.png)
+    [Source](diagrams/10-automation-stack.md)
 
 ---
 
