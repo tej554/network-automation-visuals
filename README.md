@@ -1,4 +1,6 @@
-# LinkedIn Content Repository
+# Network Automation Visuals
+
+![Network Automation Visuals](assets/thumbnail.png)
 
 This repository hosts content, diagrams, and ideas for my LinkedIn posts, focusing on **Network Automation**, **Architecture**, and **OT Security**.
 
